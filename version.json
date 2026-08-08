@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version de test des mises à jour.",
-  "apk": "https://github.com/zw-kitdoc/kdlng-releases/releases/download/v1.0.0/kdlng-1.0.0.apk",
-  "windows": "https://github.com/zw-kitdoc/kdlng-releases/releases/download/v1.0.0/kdlng-1.0.0-windows.zip"
+  "version": "1.0.1",
+  "notes": "Recherche globale, multi-sélection, groupes/niveaux des verbes, corrections.",
+  "apk": "https://github.com/zw-kitdoc/kdlng-releases/releases/download/v1.0.1/kdlng-1.0.1.apk",
+  "windows": "https://github.com/zw-kitdoc/kdlng-releases/releases/download/v1.0.1/kdlng-1.0.1-windows.zip"
 }
